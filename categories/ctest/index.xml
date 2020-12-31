@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CTest - Category - like G.SU</title>
+        <link>https://like-g-su.github.io/categories/ctest/</link>
+        <description>CTest - Category - like G.SU</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 15:50:17 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/categories/ctest/" rel="self" type="application/rss+xml" /><item>
+    <title>네번째 포스트</title>
+    <link>https://like-g-su.github.io/posts/fourth-post/</link>
+    <pubDate>Thu, 31 Dec 2020 15:50:17 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/posts/fourth-post/</guid>
+    <description><![CDATA[네번째라우&hellip;]]></description>
+</item></channel>
+</rss>

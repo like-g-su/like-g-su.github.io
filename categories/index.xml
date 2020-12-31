@@ -1,7 +1,35 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - My New Hugo Site</title>
+        <title>Categories - Category - like G.SU</title>
         <link>https://like-g-su.github.io/categories/</link>
-        <description>Categories - Category - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://like-g-su.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+        <description>Categories - Category - like G.SU</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 15:50:17 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>CTest</title>
+    <link>https://like-g-su.github.io/categories/ctest/</link>
+    <pubDate>Thu, 31 Dec 2020 15:50:17 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/categories/ctest/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>BTest</title>
+    <link>https://like-g-su.github.io/categories/btest/</link>
+    <pubDate>Thu, 31 Dec 2020 15:39:17 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/categories/btest/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Test</title>
+    <link>https://like-g-su.github.io/categories/test/</link>
+    <pubDate>Wed, 30 Dec 2020 21:39:17 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/categories/test/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>ATest</title>
+    <link>https://like-g-su.github.io/categories/atest/</link>
+    <pubDate>Tue, 29 Dec 2020 21:39:17 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/categories/atest/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>

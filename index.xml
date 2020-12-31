@@ -1,16 +1,37 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
+        <title>like G.SU</title>
         <link>https://like-g-su.github.io/</link>
-        <description>My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Dec 2020 21:39:17 &#43;0900</lastBuildDate>
+        <description>like G.SU</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 15:50:17 &#43;0900</lastBuildDate>
             <atom:link href="https://like-g-su.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>네번째 포스트</title>
+    <link>https://like-g-su.github.io/posts/fourth-post/</link>
+    <pubDate>Thu, 31 Dec 2020 15:50:17 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/posts/fourth-post/</guid>
+    <description><![CDATA[네번째라우&hellip;]]></description>
+</item><item>
+    <title>세번째 포스트</title>
+    <link>https://like-g-su.github.io/posts/third-post/</link>
+    <pubDate>Thu, 31 Dec 2020 15:39:17 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/posts/third-post/</guid>
+    <description><![CDATA[세번째로소이다.]]></description>
+</item><item>
+    <title>두번째 포스트</title>
+    <link>https://like-g-su.github.io/posts/second-post/</link>
+    <pubDate>Wed, 30 Dec 2020 21:39:17 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/posts/second-post/</guid>
+    <description><![CDATA[두번째로소이다.]]></description>
+</item><item>
     <title>First_post</title>
-    <link>https://like-g-su.github.io/posts/first_post/</link>
+    <link>https://like-g-su.github.io/posts/first-post/</link>
     <pubDate>Tue, 29 Dec 2020 21:39:17 &#43;0900</pubDate>
     <author>Author</author>
-    <guid>https://like-g-su.github.io/posts/first_post/</guid>
+    <guid>https://like-g-su.github.io/posts/first-post/</guid>
     <description><![CDATA[h2 제목 내용
 h3 제목 내용
 Contents..!]]></description>

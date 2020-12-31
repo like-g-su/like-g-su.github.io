@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ATest - Category - like G.SU</title>
+        <link>https://like-g-su.github.io/categories/atest/</link>
+        <description>ATest - Category - like G.SU</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Dec 2020 21:39:17 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/categories/atest/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://like-g-su.github.io/posts/first-post/</link>
+    <pubDate>Tue, 29 Dec 2020 21:39:17 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/posts/first-post/</guid>
+    <description><![CDATA[h2 제목 내용
+h3 제목 내용
+Contents..!]]></description>
+</item></channel>
+</rss>
