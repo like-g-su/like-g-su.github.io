@@ -3,19 +3,5 @@
         <title>Tags - Tag - like G.SU</title>
         <link>https://like-g-su.github.io/tags/</link>
         <description>Tags - Tag - like G.SU</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 30 Dec 2020 21:39:17 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Docs</title>
-    <link>https://like-g-su.github.io/tags/docs/</link>
-    <pubDate>Wed, 30 Dec 2020 21:39:17 &#43;0900</pubDate>
-    <author>Author</author>
-    <guid>https://like-g-su.github.io/tags/docs/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Tag</title>
-    <link>https://like-g-su.github.io/tags/tag/</link>
-    <pubDate>Wed, 30 Dec 2020 21:39:17 &#43;0900</pubDate>
-    <author>Author</author>
-    <guid>https://like-g-su.github.io/tags/tag/</guid>
-    <description><![CDATA[]]></description>
-</item></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://like-g-su.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
