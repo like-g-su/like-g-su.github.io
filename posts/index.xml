@@ -3,14 +3,23 @@
         <title>All Posts - like G.SU</title>
         <link>https://like-g-su.github.io/posts/</link>
         <description>All Posts | like G.SU</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 06:39:17 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>컨테이너와 가상머신 비교 도커를 해야 하는 이유</title>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Feb 2021 08:57:27 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo 이것저것</title>
+    <link>https://like-g-su.github.io/posts/2021-02-10-hugo-guides/</link>
+    <pubDate>Wed, 10 Feb 2021 08:57:27 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/posts/2021-02-10-hugo-guides/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/hugo.png" referrerpolicy="no-referrer">
+            </div>새로운 post 추가 hugo new post/test.md 개발 서버 시작하기 hugo server -D  http://localhost:1313 브라우저에서 변경 사항을 즉시 확인할 수 있습니다.  이미지 경로 지정  Docs &gt; Content Management &gt; Static Files 기본적으로 이미지 등 static 파일은 static/ 디렉토리 아래에 위치합니다. static/ 아래 파일들은 사이트의 루트 경로로 제공됩니다. (예) static/img/test.png는 http://{base-url}/img/test.png로 접근할 수 있습니다. 설정 파일에 직접 static 파일 경로를 설정할 수도 있습니다. config.toml staticDir = [&#34;static_test&#34;]   테마  Themes 원하는 테마를 Git submodule로 추가하여 사용합니다.]]></description>
+</item><item>
+    <title>컨테이너와 가상머신 비교, 도커를 해야 하는 이유</title>
     <link>https://like-g-su.github.io/posts/2021-02-09-docker/</link>
     <pubDate>Tue, 09 Feb 2021 06:39:17 &#43;0900</pubDate>
     <author>Author</author>
     <guid>https://like-g-su.github.io/posts/2021-02-09-docker/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/docker.png" referrerpolicy="no-referrer">
-            </div>컨테이너 vs 가상머신 가상머신(Virtual Machine)  하이퍼바이저를 이용하여 여러 개의 OS를 하나의 호스트에 설치하여 사용합니다. 각각의 게스트 OS는 독립된 공간과 자원을 할당받아 사용합니다. VMware  장점  독립된 OS 생성하여 사용이 가능합니다.  단점  하이퍼바이저를 거치기 때문에 일반 호스트에 비해 성능이 떨어집니다. 라이브러리, 커널 등을 모두 포함하기 때문에 이미지의 크기가 큽니다. 따라서 이 이미지를 어플리케이션에 배포를 할 때에 어려움이 있습니다.  컨테이너(Container)  프로세스 단위의 격리 환경을 만듭니다. 컨테이너에 필요한 커널은 호스트의 커널을 공유하여 사용합니다.]]></description>
+            </div>컨테이너 vs 가상머신 가상머신(Virtual Machine)  하이퍼바이저를 이용하여 여러 개의 OS를 하나의 호스트에 설치하여 사용합니다.  하이퍼바이저는 VM이 할당될 수 있도록 리소스를 물리 머신에서 분리합니다.   각각의 게스트 OS는 독립된 공간과 자원을 할당받아 사용합니다. VMware  장점  OS가 다른 VM은 동일한 물리적 서버에서 실행할 수 있습니다. 호스트OS, 다른 VM으로부터 완벽하게 격리되어 강력한 보안 정책이 필요할 때 유용합니다.  단점  하이퍼바이저를 거치기 때문에 일반 호스트에 비해 성능이 떨어집니다. 라이브러리, 커널, 애플리케이션이 있으면 VM의 크기는 수 기가 바이트 일 수 있습니다.]]></description>
 </item></channel>
 </rss>

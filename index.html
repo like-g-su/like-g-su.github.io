@@ -9,7 +9,7 @@
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://like-g-su.github.io/" />
-<meta property="og:updated_time" content="2021-02-09T06:39:17+09:00" />
+<meta property="og:updated_time" content="2021-02-10T08:57:27+09:00" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="like G.SU"/>
 <meta name="twitter:description" content=""/>
@@ -86,7 +86,19 @@
     <div id="search-dropdown-mobile"></div>
 </div><main class="main">
                 <div class="container"><div class="page home" data-home="posts"><div class="home-profile"><div class="home-subtitle"><div id="id-1" class="typeit"></div></div></div>
-<article onclick="location.href='\/posts\/2021-02-09-docker\/'" class="single summary summary-animation" itemscope itemtype="http://schema.org/Article" style=""><div class="featured-image-preview"><img
+<article onclick="location.href='\/posts\/2021-02-10-hugo-guides\/'" class="single summary summary-animation" itemscope itemtype="http://schema.org/Article" style=""><div class="featured-image-preview"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/img/hugo.png"
+        data-srcset="/img/hugo.png, /img/hugo.png 1.5x, /img/hugo.png 0.1x"
+        data-sizes="auto"
+        alt="/img/hugo.png"
+        title="Hugo 명령어, 설정 파일, github io 배포 등" /></div><div class="article-text"><h2 class="summary-title" itemprop="name headline">
+            Hugo 이것저것
+        </h2><div class="post-meta summary-post-meta">&nbsp;&nbsp;&nbsp;<span class="post-publish"><i class="far fa-clock fa-fw"></i><time class="timeago" datetime="2021-02-10">2021-02-10</time></span>&nbsp;&nbsp;&nbsp;<span class="post-category">
+                <a href="/categories/etc/"><i class="far fa-folder fa-fw"></i>ETC</a>
+            </span></div><div class="content summary-content">새로운 post 추가 hugo new post/test.md 개발 서버 시작하기 hugo server -D  http://localhost:1313 브라우저에서 변경 사항을 즉시 확인할 수 있습니다.  이미지 경로 지정  Docs &gt; Content Management &gt; Static Files 기본적으로 이미지 등 static 파일은 static/ 디렉토리 아래에 위치합니다. static/ 아래 파일들은 사이트의 루트 경로로 제공됩니다. (예) static/img/test.png는 http://{base-url}/img/test.png로 접근할 수 있습니다. 설정 파일에 직접 static 파일 경로를 설정할 수도 있습니다. config.toml staticDir = [&#34;static_test&#34;]   테마  Themes 원하는 테마를 Git submodule로 추가하여 사용합니다.</div></div>
+</article><article onclick="location.href='\/posts\/2021-02-09-docker\/'" class="single summary summary-animation" itemscope itemtype="http://schema.org/Article" style=""><div class="featured-image-preview"><img
         class="lazyload"
         src="/svg/loading.min.svg"
         data-src="/img/docker.png"
@@ -94,10 +106,10 @@
         data-sizes="auto"
         alt="/img/docker.png"
         title="컨테이너와 가상머신 비교, 도커를 해야 하는 이유" /></div><div class="article-text"><h2 class="summary-title" itemprop="name headline">
-            컨테이너와 가상머신 비교 도커를 해야 하는 이유
+            컨테이너와 가상머신 비교, 도커를 해야 하는 이유
         </h2><div class="post-meta summary-post-meta">&nbsp;&nbsp;&nbsp;<span class="post-publish"><i class="far fa-clock fa-fw"></i><time class="timeago" datetime="2021-02-09">2021-02-09</time></span>&nbsp;&nbsp;&nbsp;<span class="post-category">
                 <a href="/categories/docker/"><i class="far fa-folder fa-fw"></i>Docker</a>
-            </span></div><div class="content summary-content">컨테이너 vs 가상머신 가상머신(Virtual Machine)  하이퍼바이저를 이용하여 여러 개의 OS를 하나의 호스트에 설치하여 사용합니다. 각각의 게스트 OS는 독립된 공간과 자원을 할당받아 사용합니다. VMware  장점  독립된 OS 생성하여 사용이 가능합니다.  단점  하이퍼바이저를 거치기 때문에 일반 호스트에 비해 성능이 떨어집니다. 라이브러리, 커널 등을 모두 포함하기 때문에 이미지의 크기가 큽니다. 따라서 이 이미지를 어플리케이션에 배포를 할 때에 어려움이 있습니다.  컨테이너(Container)  프로세스 단위의 격리 환경을 만듭니다. 컨테이너에 필요한 커널은 호스트의 커널을 공유하여 사용합니다.</div></div>
+            </span></div><div class="content summary-content">컨테이너 vs 가상머신 가상머신(Virtual Machine)  하이퍼바이저를 이용하여 여러 개의 OS를 하나의 호스트에 설치하여 사용합니다.  하이퍼바이저는 VM이 할당될 수 있도록 리소스를 물리 머신에서 분리합니다.   각각의 게스트 OS는 독립된 공간과 자원을 할당받아 사용합니다. VMware  장점  OS가 다른 VM은 동일한 물리적 서버에서 실행할 수 있습니다. 호스트OS, 다른 VM으로부터 완벽하게 격리되어 강력한 보안 정책이 필요할 때 유용합니다.  단점  하이퍼바이저를 거치기 때문에 일반 호스트에 비해 성능이 떨어집니다. 라이브러리, 커널, 애플리케이션이 있으면 VM의 크기는 수 기가 바이트 일 수 있습니다.</div></div>
 </article></div></div>
                 </main><footer class="footer">
         <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.79.1">Hugo</a> | Theme - <a href="https://github.com/upagge/uBlogger" target="_blank" rel="noopener noreffer" title="uBlogger 1.1.0"><i class="far fa-kiss-wink-heart fa-fw"></i> uBlogger</a>

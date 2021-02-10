@@ -3,7 +3,14 @@
         <title>Categories - Category - like G.SU</title>
         <link>https://like-g-su.github.io/categories/</link>
         <description>Categories - Category - like G.SU</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 06:39:17 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Feb 2021 08:57:27 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>ETC</title>
+    <link>https://like-g-su.github.io/categories/etc/</link>
+    <pubDate>Wed, 10 Feb 2021 08:57:27 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/categories/etc/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Docker</title>
     <link>https://like-g-su.github.io/categories/docker/</link>
     <pubDate>Tue, 09 Feb 2021 06:39:17 &#43;0900</pubDate>
