@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Docker - Category - like G.SU</title>
+        <title>Docker - Category - 지수짓후</title>
         <link>https://like-g-su.github.io/categories/docker/</link>
-        <description>Docker - Category - like G.SU</description>
+        <description>Docker - Category - 지수짓후</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 06:39:17 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/categories/docker/" rel="self" type="application/rss+xml" /><item>
     <title>컨테이너와 가상머신 비교, 도커를 해야 하는 이유</title>
     <link>https://like-g-su.github.io/posts/2021-02-09-docker/</link>
