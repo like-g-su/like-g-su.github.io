@@ -3,7 +3,16 @@
         <title>All Posts - 지수짓후</title>
         <link>https://like-g-su.github.io/posts/</link>
         <description>All Posts | 지수짓후</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Feb 2021 06:30:00 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 23:41:52 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Git 명령어 모음</title>
+    <link>https://like-g-su.github.io/posts/2021-04-17-git/</link>
+    <pubDate>Fri, 16 Apr 2021 23:41:52 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/posts/2021-04-17-git/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/git.png" referrerpolicy="no-referrer">
+            </div>Remote 변경 git remote remove origin git remote add origin {새주소} 서브 모듈이 있는 경우 git clone  서브 모듈이 있는 프로젝트는 git clone하면 서브 모듈의 폴더는 비어있게 된다. 다음 명령어를 통해 서브 모듈에 관한 로컬 설정을 한 후, 리모트 데이터를 가져온다.  git submodule init git submodule update  또는 처음에 프로젝트를 clone할 때 다음 옵션을 붙여 실행하면 서브 모듈까지 업데이트 할 수 있다.  git clone --recurse-submodules https://github.com/like-g-su/{} ]]></description>
+</item><item>
     <title>도커 이미지와 컨테이너</title>
     <link>https://like-g-su.github.io/posts/2021-02-24-docker-image-container/</link>
     <pubDate>Wed, 24 Feb 2021 06:30:00 &#43;0900</pubDate>

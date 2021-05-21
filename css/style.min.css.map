@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/1112819/VisualStudioCodes/blog",
+	"sourceRoot": "/Users/skt1112819/VisualStudioCodes/blog",
 	"sources": [
 		"themes/uBlogger/assets/css/style.scss",
 		"assets/css/_variables.scss",
