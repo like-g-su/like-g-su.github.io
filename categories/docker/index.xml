@@ -3,7 +3,16 @@
         <title>Docker - Category - 지수짓후</title>
         <link>https://like-g-su.github.io/categories/docker/</link>
         <description>Docker - Category - 지수짓후</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 06:39:17 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/categories/docker/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Feb 2021 06:30:00 &#43;0900</lastBuildDate><atom:link href="https://like-g-su.github.io/categories/docker/" rel="self" type="application/rss+xml" /><item>
+    <title>도커 이미지와 컨테이너</title>
+    <link>https://like-g-su.github.io/posts/2021-02-24-docker-image-container/</link>
+    <pubDate>Wed, 24 Feb 2021 06:30:00 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://like-g-su.github.io/posts/2021-02-24-docker-image-container/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/docker.png" referrerpolicy="no-referrer">
+            </div>이미지  애플리케이션을 실행하는 데 필요한 모든 것을 포함한 소프트웨어 패키지입니다.  코드, 런타임, 시스템 툴, 시스템 라이브러리, 설정   여러 개의 레이어로 구성되어 있습니다. 컨테이너를 생성하고 실행할 때 read-only로 사용됩니다. 이미지의 이름은 다음과 같이 구성됩니다. {저장소}/{이미지}:{태그}  (e.g) rabbitmq:3-management 도커 허브의 공식 이미지인 경우 {저장소}를 생략하는 경우도 있습니다.    조회 docker images REPOSITORY TAG IMAGE ID CREATED SIZE rabbitmq 3-management 095cd34350b9 4 weeks ago 187MB ubuntu 20.]]></description>
+</item><item>
     <title>컨테이너와 가상머신 비교, 도커를 해야 하는 이유</title>
     <link>https://like-g-su.github.io/posts/2021-02-09-docker/</link>
     <pubDate>Tue, 09 Feb 2021 06:39:17 &#43;0900</pubDate>
